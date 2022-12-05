@@ -1,0 +1,4 @@
+- 👀  Hi, I’m STRANGER
+- 💞️  I’m interested in programmation
+- 🌱  I’m currently learning how to define a variable
+- 👀  I’m looking to collaborate on creating games
